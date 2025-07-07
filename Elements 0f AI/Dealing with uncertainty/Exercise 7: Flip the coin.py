@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def generate(p1):
     # change this so that it generates 10000 random zeros and ones
     # where the probability of one is p1
